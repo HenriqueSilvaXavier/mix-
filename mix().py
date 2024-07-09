@@ -1,4 +1,4 @@
-mport random
+import random
 lista=["Henrique", "Gian", "Mateus", "André", "Leonardo", "Carlos", "Felipe", "Ricardo"]
 n=7
 def mix(lista, n):
